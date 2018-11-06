@@ -5,6 +5,7 @@ There are a number of important elements to any successful high school or colleg
 
 Introduction and Thesis: Because you have a limited amount of space to present your position, you absolutely need to get straight to the point. Your first sentence in your introduction needs to be a precise thesis statement that sets the topic for the rest of your paper.
 
+For example: “Yellowstone National Park is one of the U.S.’s most visited national parks for numerous reasons.”
 
 This thesis sencent should be followed with some extra information that expands on your claim. For example: "Because Yellowstone National Park is one of the world's most breathtaking sights, it is visited by thousands each year."
 
